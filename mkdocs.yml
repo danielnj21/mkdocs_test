@@ -11,3 +11,4 @@ theme:
 
 nav:
   - Home: README.md
+  - TAB2: second_file.md
