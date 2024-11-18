@@ -10,4 +10,4 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
+  - Home: README.md
